@@ -1,0 +1,6 @@
+/.project
+/.classpath
+/*.class
+
+/hackerrank/.gitignore
+/leetcode/.gitignore
